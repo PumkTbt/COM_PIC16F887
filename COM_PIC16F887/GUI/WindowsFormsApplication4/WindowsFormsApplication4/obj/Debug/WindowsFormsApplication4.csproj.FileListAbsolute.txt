@@ -1,0 +1,54 @@
+c:\users\tyu54\onedrive\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+c:\users\tyu54\onedrive\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+c:\users\tyu54\onedrive\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+c:\users\tyu54\onedrive\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+c:\users\tyu54\onedrive\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+c:\users\tyu54\onedrive\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+c:\users\tyu54\onedrive\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+c:\users\tyu54\onedrive\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+c:\users\tyu54\onedrive\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+E:\Document\Giao tiep DKTBNV\Code\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+E:\Document\Giao tiep DKTBNV\Code\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+E:\Document\Giao tiep DKTBNV\Code\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+E:\Document\Giao tiep DKTBNV\Code\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+E:\Document\Giao tiep DKTBNV\Code\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+E:\Document\Giao tiep DKTBNV\Code\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+E:\Document\Giao tiep DKTBNV\Code\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+E:\Document\Giao tiep DKTBNV\Code\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+E:\Document\Giao tiep DKTBNV\Code\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+E:\Document\Giao tiep DKTBNV\Bai_tap\COM_PIC_NCao2\GUI\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+E:\Document\Giao tiep DKTBNV\Bai_tap\COM_PIC_NCao2\GUI\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+E:\Document\Giao tiep DKTBNV\Bai_tap\COM_PIC_NCao2\GUI\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+E:\Document\Giao tiep DKTBNV\Bai_tap\COM_PIC_NCao2\GUI\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+E:\Document\Giao tiep DKTBNV\Bai_tap\COM_PIC_NCao2\GUI\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+E:\Document\Giao tiep DKTBNV\Bai_tap\COM_PIC_NCao2\GUI\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+E:\Document\Giao tiep DKTBNV\Bai_tap\COM_PIC_NCao2\GUI\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+E:\Document\Giao tiep DKTBNV\Bai_tap\COM_PIC_NCao2\GUI\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+E:\Document\Giao tiep DKTBNV\Bai_tap\COM_PIC_NCao2\GUI\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+E:\Document\Giao tiep DKTBNV\Bai_tap\BaitapCOM_NC_Finally\Visual GUI\GUI\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+E:\Document\Giao tiep DKTBNV\Bai_tap\BaitapCOM_NC_Finally\Visual GUI\GUI\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+E:\Document\Giao tiep DKTBNV\Bai_tap\BaitapCOM_NC_Finally\Visual GUI\GUI\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+E:\Document\Giao tiep DKTBNV\Bai_tap\BaitapCOM_NC_Finally\Visual GUI\GUI\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+E:\Document\Giao tiep DKTBNV\Bai_tap\BaitapCOM_NC_Finally\Visual GUI\GUI\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+E:\Document\Giao tiep DKTBNV\Bai_tap\BaitapCOM_NC_Finally\Visual GUI\GUI\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+E:\Document\Giao tiep DKTBNV\Bai_tap\BaitapCOM_NC_Finally\Visual GUI\GUI\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+E:\Document\Giao tiep DKTBNV\Bai_tap\BaitapCOM_NC_Finally\Visual GUI\GUI\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+E:\Document\Giao tiep DKTBNV\Bai_tap\BaitapCOM_NC_Finally\Visual GUI\GUI\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+E:\Document\19486901_TRAN_BA_TY _BTCOM\BaitapCOM_NC_Finally\Visual GUI\GUI\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+E:\Document\19486901_TRAN_BA_TY _BTCOM\BaitapCOM_NC_Finally\Visual GUI\GUI\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+E:\Document\19486901_TRAN_BA_TY _BTCOM\BaitapCOM_NC_Finally\Visual GUI\GUI\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+E:\Document\19486901_TRAN_BA_TY _BTCOM\BaitapCOM_NC_Finally\Visual GUI\GUI\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+E:\Document\19486901_TRAN_BA_TY _BTCOM\BaitapCOM_NC_Finally\Visual GUI\GUI\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+E:\Document\19486901_TRAN_BA_TY _BTCOM\BaitapCOM_NC_Finally\Visual GUI\GUI\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+E:\Document\19486901_TRAN_BA_TY _BTCOM\BaitapCOM_NC_Finally\Visual GUI\GUI\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+E:\Document\19486901_TRAN_BA_TY _BTCOM\BaitapCOM_NC_Finally\Visual GUI\GUI\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+E:\Document\19486901_TRAN_BA_TY _BTCOM\BaitapCOM_NC_Finally\Visual GUI\GUI\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+E:\Document\Giao tiep DKTBNV\19486901_TranBaTy_GTTBNV_DHDTMT15B\Baitap COM\BaitapCOM_NC_Finally\GUI\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+E:\Document\Giao tiep DKTBNV\19486901_TranBaTy_GTTBNV_DHDTMT15B\Baitap COM\BaitapCOM_NC_Finally\GUI\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+E:\Document\Giao tiep DKTBNV\19486901_TranBaTy_GTTBNV_DHDTMT15B\Baitap COM\BaitapCOM_NC_Finally\GUI\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+E:\Document\Giao tiep DKTBNV\19486901_TranBaTy_GTTBNV_DHDTMT15B\Baitap COM\BaitapCOM_NC_Finally\GUI\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+E:\Document\Giao tiep DKTBNV\19486901_TranBaTy_GTTBNV_DHDTMT15B\Baitap COM\BaitapCOM_NC_Finally\GUI\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+E:\Document\Giao tiep DKTBNV\19486901_TranBaTy_GTTBNV_DHDTMT15B\Baitap COM\BaitapCOM_NC_Finally\GUI\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+E:\Document\Giao tiep DKTBNV\19486901_TranBaTy_GTTBNV_DHDTMT15B\Baitap COM\BaitapCOM_NC_Finally\GUI\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+E:\Document\Giao tiep DKTBNV\19486901_TranBaTy_GTTBNV_DHDTMT15B\Baitap COM\BaitapCOM_NC_Finally\GUI\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+E:\Document\Giao tiep DKTBNV\19486901_TranBaTy_GTTBNV_DHDTMT15B\Baitap COM\BaitapCOM_NC_Finally\GUI\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache

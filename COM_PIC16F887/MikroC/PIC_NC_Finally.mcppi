@@ -1,0 +1,68 @@
+[DEVICE]
+Name=P18F4550
+Clock=20000000
+[MEMORY_MODEL]
+Value=0
+[BUILD_TYPE]
+Value=0
+[ACTIVE_TAB]
+Value=PIC_NC_Finally.c
+[USE_EEPROM]
+Value=0
+[USE_HEAP]
+Value=0
+[HEAP_SIZE]
+Value=0
+[EEPROM_DEFINITION]
+Value=
+[INTERRUPT_DEFS]
+VECTOR_MODE=0
+IVT_BASE=00000008
+[LIB_EXPANDED_NODES]
+0=mikroE Libraries
+1=System Libraries
+Count=3
+[PROGRAMMER_TYPE]
+Value=mikroE mikroProg
+[CODEGRIP_OPTIONS]
+CODEGRIP_SPEED=4
+CODEGRIP_VERIFY_AFTER=1
+CODEGRIP_SWBP_ENABLED=0
+CODEGRIP_PROGRAMMING_TYPE=
+[FILES]
+Count=1
+File0=PIC_NC_Finally.c
+[BINARIES]
+Count=0
+[IMAGES]
+Count=0
+ActiveImageIndex=-1
+[OPENED_FILES]
+Count=1
+File0=PIC_NC_Finally.c
+[EEPROM]
+Count=0
+[ACTIVE_COMMENTS_FILES]
+Count=0
+[OTHER_FILES]
+Count=0
+[SEARCH_PATH]
+Count=3
+Path0=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\
+Path1=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\
+Path2=E:\Document\Giao tiep DKTBNV\19486901_TranBaTy_GTTBNV_DHDTMT15B\Baitap COM\BaitapCOM_NC_Finally\MikroC\
+[HEADER_PATH]
+Count=0
+[HEADERS]
+Count=0
+[PLDS]
+Count=0
+[Useses]
+Count=5
+File0=Button
+File1=C_String
+File2=C_Type
+File3=Sprintf
+File4=UART
+[EXPANDED_NODES]
+Count=0
